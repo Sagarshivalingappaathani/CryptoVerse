@@ -11,3 +11,7 @@ Cryptoverse is a web application built with React, Redux. It fetches real-time d
 * **Cryptocurrency Details**: Offers detailed information about individual cryptocurrencies, including their history, technical specifications, and news related to them.
 * **News Feed Integration**:  Displays relevant cryptocurrency news from trusted sources to keep users informed.
 
+## Demo
+
+![Demo](https://github.com/Sagarshivalingappaathani/CryptoVerse/blob/main/demo1.png)
+![Demo](https://github.com/Sagarshivalingappaathani/CryptoVerse/blob/main/demo2.png)
