@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-Cryptoverse is a web application built with React, Redux, and Ant Design that provides a comprehensive platform for cryptocurrency enthusiasts. It fetches real-time data from various APIs, offering insights into cryptocurrency prices, market trends, and news. The application leverages charts for visualizing data and integrates news feeds for staying updated on industry developments.
+Cryptoverse is a web application built with React, Redux. It fetches real-time data from coinranking1 ,cryptocurrency-news2 APIs, offering insights into cryptocurrency prices, market trends, and news. The application leverages charts for visualizing data and integrates news feeds for staying updated on industry developments.
 
 ## Features
 
