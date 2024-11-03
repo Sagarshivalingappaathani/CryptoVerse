@@ -14,4 +14,5 @@ Cryptoverse is a web application built with React, Redux. It fetches real-time d
 ## Demo
 
 ![Demo](https://github.com/Sagarshivalingappaathani/CryptoVerse/blob/main/demo1.png)
+![Demo](https://github.com/Sagarshivalingappaathani/CryptoVerse/blob/main/demo3.png)
 ![Demo](https://github.com/Sagarshivalingappaathani/CryptoVerse/blob/main/demo2.png)
